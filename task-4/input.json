@@ -1,0 +1,9 @@
+{
+  "n": 3,
+  "m": 3,
+  "actors": [
+    [false, true, false],
+    [false, false, false],
+    [true, false, false]
+  ]
+}

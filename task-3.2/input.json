@@ -1,0 +1,23 @@
+{
+  "tshirtSizes": ["S", "M", "L", "XL", "XXL", "XXXL"],
+  "tshirtCounts": {
+    "S": 5,
+    "M": 3,
+    "L": 7,
+    "XL": 2,
+    "XXL": 1,
+    "XXXL": 0
+  },
+  "participantSizes": [
+    ["M"],
+    ["L"],
+    ["S"],
+    ["XL", "XXL"],
+    ["L", "XL"],
+    ["S", "M"],
+    ["L", "XL"],
+    ["M", "L"],
+    ["S", "M"],
+    ["XXL"]
+  ]
+}

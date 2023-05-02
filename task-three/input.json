@@ -1,0 +1,15 @@
+{
+  "currentRecord": 101,
+  "discLoaders": [
+    {"name": "0.5 kg", "weight": 0.5},
+    {"name": "1 kg", "weight": 1},
+    {"name": "2.5 kg", "weight": 2.5},
+    {"name": "5 kg", "weight": 5},
+    {"name": "10 kg", "weight": 10},
+    {"name": "15 kg", "weight": 15},
+    {"name": "20 kg", "weight": 20},
+    {"name": "25 kg", "weight": 25}
+  ],
+  "americanLoaders": [10, 25, 35, 45]
+}
+
